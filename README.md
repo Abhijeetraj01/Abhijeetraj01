@@ -9,6 +9,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -41,28 +49,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/ceF_sp64ypYAAAAd/batman.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <a href="https://www.hackerrank.com/profile/abhijeetraj02" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="www.linkedin.com/in/abhijeetraj07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/abhi.007__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/be/85/99/be85990206e042e1bcae77964f78fded.gif"  />
 </div>
 
 ###
