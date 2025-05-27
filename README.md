@@ -22,15 +22,11 @@ I love building modern web applications, experimenting with UI/UX design, and wo
 
 ---
 
-### 👾 Pacman Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Abhijeetraj01/Abhijeetraj01/output/pacman-contribution-graph.svg" />
 </picture>
-
-<sub><em>If the graph doesn't appear, make sure the GitHub Action that generates the SVG is working correctly.</em></sub>
 
 ---
 
@@ -64,8 +60,6 @@ I love building modern web applications, experimenting with UI/UX design, and wo
 </div>
 
 ---
-
-### 🎉 Just for Fun
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/be/85/99/be85990206e042e1bcae77964f78fded.gif" alt="fun gif" />
