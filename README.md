@@ -1,4 +1,4 @@
-<h6 align="left">Hi 👋! My name is Abhijeet Raj<br>I'm a passionate BTech 2nd-year Computer Science student from India 🇮🇳.<br>I love building modern web applications, experimenting with UI/UX design, and working on creative coding projects.<br><br>🌱 Currently learning: Full-stack web development and AI integrations<br><br>📫 How to reach me: [abhijeetraj100602@gmail.com] <br><br>Let's connect and build something amazing together! 💡✨</h6>
+<h6 align="left">Hi 👋! My name is Abhijeet Raj<br>I'm a passionate BTech 2nd-year Computer Science student.<br>I love building modern web applications, experimenting with UI/UX design, and working on creative coding projects.<br><br>🌱 Currently learning: Full-stack web development and AI integrations<br><br>📫 How to reach me: [abhijeetraj100602@gmail.com] <br><br>Let's connect and build something amazing together! 💡✨</h6>
 
 ###
 
