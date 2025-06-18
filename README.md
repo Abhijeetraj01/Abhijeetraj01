@@ -61,6 +61,4 @@ I love building modern web applications, experimenting with UI/UX design, and wo
 
 ---
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/be/85/99/be85990206e042e1bcae77964f78fded.gif" alt="fun gif" />
-</div>
+
