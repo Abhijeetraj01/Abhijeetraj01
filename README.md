@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋! I'm Abhijeet Raj</h3>
 
 <p align="center">
-I'm a passionate BTech 2nd-year Computer Science student. <br><br>
+I'm a passionate BTech 3rd-year Computer Science student. <br><br>
 I love building modern web applications, experimenting with UI/UX design, and working on creative coding projects.
 </p>
 
